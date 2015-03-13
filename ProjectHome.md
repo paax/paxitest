@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://google.de/asd.xml" height="200" border="0" /&gt;
